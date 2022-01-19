@@ -21,10 +21,11 @@ namespace Pesen_Fitsa
         {
             this.penulis = penulis;
         } // End constructor
+          // -----------------Fields & Constructors-----------------
 
-         //There is only 1 field & 1 constructor in this class
-       
-         //-----------------Methods-----------------
+
+
+        //-----------------Methods----------------------------------
 
         // Method #1 Begin
         public void Idaho(Nanas.Fargo f)
@@ -34,7 +35,7 @@ namespace Pesen_Fitsa
         }// Method #1 End
 
 
-        // There are only 1 methods in this class
+        //-----------------Methods----------------------------------
 
 
     } // end class

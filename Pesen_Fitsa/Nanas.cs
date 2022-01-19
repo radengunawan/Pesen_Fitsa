@@ -5,10 +5,12 @@ namespace Pesen_Fitsa
 {
     class Nanas
     {
-        const string d = "delivery.txt";
+        public static string gen_address = "C:\\Users\\sendr\\Documents\\Experiment_Result\\";
+
+        public static string d = $"{gen_address}delivery2.txt";
         public enum Fargo { North, South, East, West, Flamingo }
 
-        public static string gen_address = "C:\\Users\\sendr\\Documents\\Experiment_Result\\";
+       
 
 
         static void Main(string[] args)

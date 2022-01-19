@@ -17,7 +17,7 @@ namespace Pesen_Fitsa
             this.pembaca = pembaca;
         }
 
-        //There is only 1 field & 1 constructor in this class (Pesta)
+        // -----------------Fields & Constructors-----------------
 
 
 
@@ -29,7 +29,7 @@ namespace Pesen_Fitsa
             this.pembaca.Close();
         } // END Method #1 
 
-        //There is only 1 method in this class (Pesta)
+        //-----------------Methods------------------------
 
     }// end class (Pesta)
 }//end namespace Pesen_Fitsa
