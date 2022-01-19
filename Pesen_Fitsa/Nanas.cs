@@ -30,9 +30,8 @@ namespace Pesen_Fitsa
                 p.Berapaan(o);
             }
 
-
-
-
+            o.WriteLine("That’s all folks!");
+            o.Close();
         }
     }
 }
