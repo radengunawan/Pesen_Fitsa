@@ -5,9 +5,10 @@ namespace Pesen_Fitsa
 {
     class Nanas
     {
-        public static string gen_address = "C:\\Users\\sendr\\Documents\\Experiment_Result\\";
+        public static string gen_address = @"C:\Users\sendr\Documents\Experiment_Result\";
+        //public static string gen_address = "C:\\Users\\sendr\\Documents\\Experiment_Result\\";
 
-        public static string d = $"{gen_address}delivery2.txt";
+        public static string d = $"{gen_address}delivery_with_@.txt";
         public enum Fargo { North, South, East, West, Flamingo }
 
        
