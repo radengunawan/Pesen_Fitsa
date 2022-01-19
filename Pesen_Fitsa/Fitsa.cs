@@ -26,12 +26,12 @@ namespace Pesen_Fitsa
        
          //-----------------Methods-----------------
 
-        // Method #1
+        // Method #1 Begin
         public void Idaho(Nanas.Fargo f)
         {
             penulis.WriteLine(f);
             penulis.Close();
-        }// End Method #1
+        }// Method #1 End
 
 
         // There are only 1 methods in this class
